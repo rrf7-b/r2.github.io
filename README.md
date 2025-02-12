@@ -1,5 +1,5 @@
 
-##Aplicativo Planetas
+###Aplicativo Planetas
 
 
 O Plantetas é um aplicativo criado com o objetivo de ajudar você a cuidar das suas plantas. Desenvolvido com Flutter e Dart, o app permite adicionar plantas, configurar lembretes para cuidados específicos e acompanhar o status das suas plantas, como quando regar ou fertilizar. A ideia é tornar o cuidado com as plantas mais fácil e organizado, para que nenhuma planta seja esquecida.
